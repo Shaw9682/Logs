@@ -1,0 +1,139 @@
+[17:16:11] [main/INFO]: Setting user: Shaw117
+[17:16:14] [Client thread/INFO]: LWJGL Version: 2.9.1
+[17:16:24] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CustomNpcs, FMLFileResourcePack:Flan's Mod Ultimate, FMLFileResourcePack:GVCEntity, FMLFileResourcePack:GVCGuns, FMLFileResourcePack:GVCMob, PCL2 Skin.zip
+[17:16:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CustomNpcs, FMLFileResourcePack:Flan's Mod Ultimate, FMLFileResourcePack:GVCEntity, FMLFileResourcePack:GVCGuns, FMLFileResourcePack:GVCMob, FMLFileResourcePack:Flan's Mod : 0, FMLFileResourcePack:Flan's Mod : 5, FMLFileResourcePack:Flan's Mod : Flan±ÿ±∏÷–π˙«π–µ∞¸9°æJU∫∫ªØ°ø, FMLFileResourcePack:Flan's Mod : ManusCivilPackage.jar, FMLFileResourcePack:Flan's Mod : MAPMGUNS.jar, FMLFileResourcePack:Flan's Mod : Minecraft-SMPPP.jar, FMLFileResourcePack:Flan's Mod : Modern PaP Pack.zip, FMLFileResourcePack:Flan's Mod : Pack, FMLFileResourcePack:Flan's Mod : WARAGE, FMLFileResourcePack:Flan's Mod : °Ï9FANVEI°Ïb‘µ√Œ°Ï2VC°Ï4œ»∑Ê.jar, FMLFileResourcePack:Flan's Mod : °Ï9RANZHI°Ïb‘µ√Œ°Ï4GCS, FMLFileResourcePack:Flan's Mod : °Ï9RANZHI°Ïb‘µ√Œ°Ï4‘≠¥¥, FMLFileResourcePack:Flan's Mod : °Ï9RANZHI°Ïb‘µ√Œ°Ï4◊πÛŒ‰∆˜, PCL2 Skin.zip
+[17:16:37] [Sound Library Loader/INFO]: Sound engine started
+[17:16:40] [Client thread/WARN]: File flansmod:sounds/LeeEnfieldReload.ogg does not exist, cannot add it to event flansmod:LeeEnfieldReload
+[17:16:40] [Client thread/WARN]: File flansmod:sounds/AMR2Reload.ogg does not exist, cannot add it to event flansmod:AMR2Reload
+[17:16:40] [Client thread/WARN]: File flansmod:sounds/JetEngine2.ogg does not exist, cannot add it to event flansmod:JetEngine2
+[17:16:40] [Client thread/WARN]: File flansmod:sounds/RocketFire1.ogg does not exist, cannot add it to event flansmod:RocketFire1
+[17:16:40] [Client thread/WARN]: File flansmod:sounds/RocketFire2.ogg does not exist, cannot add it to event flansmod:RocketFire2
+[17:16:40] [Client thread/WARN]: File flansmod:sounds/BulletHit.ogg does not exist, cannot add it to event flansmod:BulletHit
+[17:16:40] [Client thread/WARN]: File flansmod:sounds/LeeEnfieldReload.ogg does not exist, cannot add it to event flansmod:LeeEnfieldReload
+[17:16:40] [Client thread/WARN]: File flansmod:sounds/RPGPaPShoot.ogg does not exist, cannot add it to event flansmod:RPGPaPShoot
+[17:16:40] [Client thread/WARN]: File flansmod:sounds/R870Shoot.ogg does not exist, cannot add it to event flansmod:R870PaPShoot
+[17:16:40] [Client thread/WARN]: File flansmod:sounds/Helicopter1.ogg does not exist, cannot add it to event flansmod:Helicopter1
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/Helicopter2.ogg does not exist, cannot add it to event flansmod:Helicopter2
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/HelicopterStart.ogg does not exist, cannot add it to event flansmod:HelicopterStart
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/JetEngine1.ogg does not exist, cannot add it to event flansmod:JetEngine1
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/JetEngine2.ogg does not exist, cannot add it to event flansmod:JetEngine2
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/RocketFire1.ogg does not exist, cannot add it to event flansmod:RocketFire1
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/RocketFire2.ogg does not exist, cannot add it to event flansmod:RocketFire2
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/BulletHit.ogg does not exist, cannot add it to event flansmod:BulletHit
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/GrenadeLauncherShoot.ogg does not exist, cannot add it to event flansmod:GrenadeLauncherShoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/GL6Reload.ogg does not exist, cannot add it to event flansmod:GL6Reload
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/GrenadeLauncherReload.ogg does not exist, cannot add it to event flansmod:GrenadeLauncherReload
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/AK74Shoot.ogg does not exist, cannot add it to event flansmod:AK74Shoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/BarrettShoot.ogg does not exist, cannot add it to event flansmod:BarrettShoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/DesertEagleShoot.ogg does not exist, cannot add it to event flansmod:DesertEagleShoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/DragunovShoot.ogg does not exist, cannot add it to event flansmod:DragunovShoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/G36Shoot.ogg does not exist, cannot add it to event flansmod:G36Shoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/LeeEnfieldReload.ogg does not exist, cannot add it to event flansmod:LeeEnfieldReload
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/M9Shoot.ogg does not exist, cannot add it to event flansmod:M9Shoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/M14Shoot.ogg does not exist, cannot add it to event flansmod:M14Shoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/M21Shoot.ogg does not exist, cannot add it to event flansmod:M21Shoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/M60Shoot.ogg does not exist, cannot add it to event flansmod:M60Shoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/MiniUziShoot.ogg does not exist, cannot add it to event flansmod:MiniUziShoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/MP5Shoot.ogg does not exist, cannot add it to event flansmod:MP5Shoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/P90Shoot.ogg does not exist, cannot add it to event flansmod:P90Shoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/R700Shoot.ogg does not exist, cannot add it to event flansmod:R700Shoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/RPDShoot.ogg does not exist, cannot add it to event flansmod:RPDShoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/SkorpionShoot.ogg does not exist, cannot add it to event flansmod:SkorpionShoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/USPShoot.ogg does not exist, cannot add it to event flansmod:USPShoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/W1200Reload.ogg does not exist, cannot add it to event flansmod:W1200Reload
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/W1200Shoot.ogg does not exist, cannot add it to event flansmod:W1200Shoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/GlockShoot.ogg does not exist, cannot add it to event flansmod:GlockShoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/SG550Shoot.ogg does not exist, cannot add it to event flansmod:SG550Shoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/R870Shoot.ogg does not exist, cannot add it to event flansmod:R870Shoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/FNSCARShoot.ogg does not exist, cannot add it to event flansmod:FNSCARShoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/Helicopter1.ogg does not exist, cannot add it to event flansmod:Helicopter1
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/Helicopter2.ogg does not exist, cannot add it to event flansmod:Helicopter2
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/HelicopterStart.ogg does not exist, cannot add it to event flansmod:HelicopterStart
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/JetEngine1.ogg does not exist, cannot add it to event flansmod:JetEngine1
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/JetEngine2.ogg does not exist, cannot add it to event flansmod:JetEngine2
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/RocketFire1.ogg does not exist, cannot add it to event flansmod:RocketFire1
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/RocketFire2.ogg does not exist, cannot add it to event flansmod:RocketFire2
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/BulletHit.ogg does not exist, cannot add it to event flansmod:BulletHit
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/M1887Shoot.ogg does not exist, cannot add it to event flansmod:M1887Shoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/M1887Reload.ogg does not exist, cannot add it to event flansmod:M1887Reload
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/GrenadeLauncherShoot.ogg does not exist, cannot add it to event flansmod:GrenadeLauncherShoot
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/GL6Reload.ogg does not exist, cannot add it to event flansmod:GL6Reload
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/GrenadeLauncherReload.ogg does not exist, cannot add it to event flansmod:GrenadeLauncherReload
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/M1A2Start.ogg does not exist, cannot add it to event flansmod:M1A2Start
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/M1A2_Run.ogg does not exist, cannot add it to event flansmod:M1A2_Run
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/90mm.ogg does not exist, cannot add it to event flansmod:90mm
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/ChallengerIdle.ogg does not exist, cannot add it to event flansmod:ChallengerIdle
+[17:16:41] [Client thread/WARN]: File flansmod:sounds/ChallengerRun.ogg does not exist, cannot add it to event flansmod:ChallengerRun
+[17:16:41] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[17:16:41] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[17:16:42] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:CustomNpcs, FMLFileResourcePack:Flan's Mod Ultimate, FMLFileResourcePack:GVCEntity, FMLFileResourcePack:GVCGuns, FMLFileResourcePack:GVCMob, FMLFileResourcePack:Flan's Mod : 0, FMLFileResourcePack:Flan's Mod : 5, FMLFileResourcePack:Flan's Mod : Flan±ÿ±∏÷–π˙«π–µ∞¸9°æJU∫∫ªØ°ø, FMLFileResourcePack:Flan's Mod : ManusCivilPackage.jar, FMLFileResourcePack:Flan's Mod : MAPMGUNS.jar, FMLFileResourcePack:Flan's Mod : Minecraft-SMPPP.jar, FMLFileResourcePack:Flan's Mod : Modern PaP Pack.zip, FMLFileResourcePack:Flan's Mod : Pack, FMLFileResourcePack:Flan's Mod : WARAGE, FMLFileResourcePack:Flan's Mod : °Ï9FANVEI°Ïb‘µ√Œ°Ï2VC°Ï4œ»∑Ê.jar, FMLFileResourcePack:Flan's Mod : °Ï9RANZHI°Ïb‘µ√Œ°Ï4GCS, FMLFileResourcePack:Flan's Mod : °Ï9RANZHI°Ïb‘µ√Œ°Ï4‘≠¥¥, FMLFileResourcePack:Flan's Mod : °Ï9RANZHI°Ïb‘µ√Œ°Ï4◊πÛŒ‰∆˜, PCL2 Skin.zip
+[17:16:44] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[17:16:48] [Client thread/INFO]: Created: 4096x4096 textures/items-atlas
+[17:16:49] [Sound Library Loader/INFO]: Sound engine started
+[17:16:51] [Client thread/WARN]: File flansmod:sounds/LeeEnfieldReload.ogg does not exist, cannot add it to event flansmod:LeeEnfieldReload
+[17:16:51] [Client thread/WARN]: File flansmod:sounds/AMR2Reload.ogg does not exist, cannot add it to event flansmod:AMR2Reload
+[17:16:51] [Client thread/WARN]: File flansmod:sounds/JetEngine2.ogg does not exist, cannot add it to event flansmod:JetEngine2
+[17:16:51] [Client thread/WARN]: File flansmod:sounds/RocketFire1.ogg does not exist, cannot add it to event flansmod:RocketFire1
+[17:16:51] [Client thread/WARN]: File flansmod:sounds/RocketFire2.ogg does not exist, cannot add it to event flansmod:RocketFire2
+[17:16:51] [Client thread/WARN]: File flansmod:sounds/BulletHit.ogg does not exist, cannot add it to event flansmod:BulletHit
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/LeeEnfieldReload.ogg does not exist, cannot add it to event flansmod:LeeEnfieldReload
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/RPGPaPShoot.ogg does not exist, cannot add it to event flansmod:RPGPaPShoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/R870Shoot.ogg does not exist, cannot add it to event flansmod:R870PaPShoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/Helicopter1.ogg does not exist, cannot add it to event flansmod:Helicopter1
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/Helicopter2.ogg does not exist, cannot add it to event flansmod:Helicopter2
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/HelicopterStart.ogg does not exist, cannot add it to event flansmod:HelicopterStart
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/JetEngine1.ogg does not exist, cannot add it to event flansmod:JetEngine1
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/JetEngine2.ogg does not exist, cannot add it to event flansmod:JetEngine2
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/RocketFire1.ogg does not exist, cannot add it to event flansmod:RocketFire1
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/RocketFire2.ogg does not exist, cannot add it to event flansmod:RocketFire2
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/BulletHit.ogg does not exist, cannot add it to event flansmod:BulletHit
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/GrenadeLauncherShoot.ogg does not exist, cannot add it to event flansmod:GrenadeLauncherShoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/GL6Reload.ogg does not exist, cannot add it to event flansmod:GL6Reload
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/GrenadeLauncherReload.ogg does not exist, cannot add it to event flansmod:GrenadeLauncherReload
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/AK74Shoot.ogg does not exist, cannot add it to event flansmod:AK74Shoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/BarrettShoot.ogg does not exist, cannot add it to event flansmod:BarrettShoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/DesertEagleShoot.ogg does not exist, cannot add it to event flansmod:DesertEagleShoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/DragunovShoot.ogg does not exist, cannot add it to event flansmod:DragunovShoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/G36Shoot.ogg does not exist, cannot add it to event flansmod:G36Shoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/LeeEnfieldReload.ogg does not exist, cannot add it to event flansmod:LeeEnfieldReload
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/M9Shoot.ogg does not exist, cannot add it to event flansmod:M9Shoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/M14Shoot.ogg does not exist, cannot add it to event flansmod:M14Shoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/M21Shoot.ogg does not exist, cannot add it to event flansmod:M21Shoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/M60Shoot.ogg does not exist, cannot add it to event flansmod:M60Shoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/MiniUziShoot.ogg does not exist, cannot add it to event flansmod:MiniUziShoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/MP5Shoot.ogg does not exist, cannot add it to event flansmod:MP5Shoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/P90Shoot.ogg does not exist, cannot add it to event flansmod:P90Shoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/R700Shoot.ogg does not exist, cannot add it to event flansmod:R700Shoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/RPDShoot.ogg does not exist, cannot add it to event flansmod:RPDShoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/SkorpionShoot.ogg does not exist, cannot add it to event flansmod:SkorpionShoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/USPShoot.ogg does not exist, cannot add it to event flansmod:USPShoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/W1200Reload.ogg does not exist, cannot add it to event flansmod:W1200Reload
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/W1200Shoot.ogg does not exist, cannot add it to event flansmod:W1200Shoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/GlockShoot.ogg does not exist, cannot add it to event flansmod:GlockShoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/SG550Shoot.ogg does not exist, cannot add it to event flansmod:SG550Shoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/R870Shoot.ogg does not exist, cannot add it to event flansmod:R870Shoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/FNSCARShoot.ogg does not exist, cannot add it to event flansmod:FNSCARShoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/Helicopter1.ogg does not exist, cannot add it to event flansmod:Helicopter1
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/Helicopter2.ogg does not exist, cannot add it to event flansmod:Helicopter2
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/HelicopterStart.ogg does not exist, cannot add it to event flansmod:HelicopterStart
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/JetEngine1.ogg does not exist, cannot add it to event flansmod:JetEngine1
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/JetEngine2.ogg does not exist, cannot add it to event flansmod:JetEngine2
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/RocketFire1.ogg does not exist, cannot add it to event flansmod:RocketFire1
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/RocketFire2.ogg does not exist, cannot add it to event flansmod:RocketFire2
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/BulletHit.ogg does not exist, cannot add it to event flansmod:BulletHit
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/M1887Shoot.ogg does not exist, cannot add it to event flansmod:M1887Shoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/M1887Reload.ogg does not exist, cannot add it to event flansmod:M1887Reload
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/GrenadeLauncherShoot.ogg does not exist, cannot add it to event flansmod:GrenadeLauncherShoot
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/GL6Reload.ogg does not exist, cannot add it to event flansmod:GL6Reload
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/GrenadeLauncherReload.ogg does not exist, cannot add it to event flansmod:GrenadeLauncherReload
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/M1A2Start.ogg does not exist, cannot add it to event flansmod:M1A2Start
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/M1A2_Run.ogg does not exist, cannot add it to event flansmod:M1A2_Run
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/90mm.ogg does not exist, cannot add it to event flansmod:90mm
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/ChallengerIdle.ogg does not exist, cannot add it to event flansmod:ChallengerIdle
+[17:16:52] [Client thread/WARN]: File flansmod:sounds/ChallengerRun.ogg does not exist, cannot add it to event flansmod:ChallengerRun
+[17:17:28] [Client thread/INFO]: Connecting to 127.0.0.1, 25565
+[17:17:30] [Client thread/INFO]: [CHAT] Vault 17.3 is out! You are running 14.1
+[17:17:30] [Client thread/INFO]: [CHAT] Update Vault at: http://dev.bukkit.org/server-mods/vault
+[17:17:30] [Client thread/INFO]: [CHAT] Shaw117 joined the game.
+[17:17:30] [Thread-9/INFO]: [CHAT] °Ï2CustomNpcs°Ïf installed. For more info °Ï9°ÏnClick here
+[17:18:01] [Client thread/INFO]: Stopping!
